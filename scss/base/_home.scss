@@ -70,7 +70,7 @@ main {
 
 .carta {
     img {
-        border-bottom:5px solid black;
+        border-style: outset;
         object-fit: cover;
     }
 
@@ -121,6 +121,7 @@ main {
 /* Configuración de la sección "galeria" */
 .galeria {
     img {
+        border-style: outset;
         object-fit: cover;
     }
 
@@ -139,6 +140,7 @@ main {
 /* Configuración de la sección "contacto" */
 .redes {
     img {
+        
         object-fit: contain;
     }
 
